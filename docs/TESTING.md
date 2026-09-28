@@ -1,0 +1,28 @@
+# Testing Checklist
+
+## Employee CRUD
+- Add an employee with valid information.
+- View all employees.
+- Search by name, department or position.
+- Update an existing employee.
+- Delete an existing employee.
+- Try invalid employee IDs.
+
+## Payroll
+- Enter a valid employee ID.
+- Enter allowance and deduction.
+- Verify:
+  Net Salary = Base Salary + Allowance - Deduction
+- Confirm payroll is saved in MySQL.
+
+## Collections
+- View salary ranking.
+- View department salary summary.
+
+## Input Validation
+- Enter text when an integer is required.
+- Enter a negative salary.
+- Enter empty text fields.
+
+## Database
+- Stop MySQL and verify that the application reports a database error instead of crashing.
