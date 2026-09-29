@@ -73,3 +73,6 @@ The project is organized into model, DAO, service, exception, and utility packag
 
 ## Database
 The application uses MySQL database employee_payroll with JDBC for persistent employee and payroll data.
+
+## Payroll Calculation
+Net Salary = Base Salary + Allowance - Deduction
