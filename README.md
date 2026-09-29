@@ -76,3 +76,6 @@ The application uses MySQL database employee_payroll with JDBC for persistent em
 
 ## Payroll Calculation
 Net Salary = Base Salary + Allowance - Deduction
+
+## OOP Concepts
+The project uses classes, encapsulation, inheritance/interface-based polymorphism, constructors, getters and setters, and the Payable interface.
