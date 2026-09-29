@@ -35,3 +35,8 @@
 - Verify employee records are stored in MySQL.
 - Verify employee records can be retrieved using JDBC.
 - Verify invalid employee IDs are handled correctly.
+
+## Collections Testing
+- Verified employee lists using ArrayList.
+- Verified department salary summaries using HashMap.
+- Verified employee sorting using Comparator.
