@@ -70,3 +70,6 @@ Net Salary = 53,000
 
 ## Project Structure
 The project is organized into model, DAO, service, exception, and utility packages.
+
+## Database
+The application uses MySQL database employee_payroll with JDBC for persistent employee and payroll data.
