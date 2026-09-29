@@ -30,3 +30,8 @@
 ## Additional Testing
 - Verified employee data persistence in MySQL.
 - Verified database connection through JDBC.
+
+## Database Testing
+- Verify employee records are stored in MySQL.
+- Verify employee records can be retrieved using JDBC.
+- Verify invalid employee IDs are handled correctly.
