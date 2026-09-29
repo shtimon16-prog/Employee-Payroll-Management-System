@@ -79,3 +79,6 @@ Net Salary = Base Salary + Allowance - Deduction
 
 ## OOP Concepts
 The project uses classes, encapsulation, inheritance/interface-based polymorphism, constructors, getters and setters, and the Payable interface.
+
+## Payroll Data
+Payroll records store the employee ID, payroll month, allowance, deduction, and calculated net salary.
