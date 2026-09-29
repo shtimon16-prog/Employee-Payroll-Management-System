@@ -26,3 +26,7 @@
 
 ## Database
 - Stop MySQL and verify that the application reports a database error instead of crashing.
+
+## Additional Testing
+- Verified employee data persistence in MySQL.
+- Verified database connection through JDBC.
