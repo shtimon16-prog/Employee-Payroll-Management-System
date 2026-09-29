@@ -67,3 +67,6 @@ Net Salary = 53,000
 - Custom exception
 - Menu-driven console interface
 - Input validation
+
+## Project Structure
+The project is organized into model, DAO, service, exception, and utility packages.
